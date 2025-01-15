@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: j7zba6035-dotnet-basic-gitops-repository
+spec:
+  url: https://github.com/xjiangorg/j7zba6035-dotnet-basic-gitops
